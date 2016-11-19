@@ -1,0 +1,6 @@
+{
+  "dev": {
+    "s3_bucket": "zappa-playground",
+    "app_function": "my_app.app"
+  }
+}
